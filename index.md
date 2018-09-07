@@ -1,35 +1,29 @@
-## Nolan Schock
+## About
 
-I am a second year graduate student in mathematics at the University of Georgia.
+I am a second year graduate student in mathematics at the University of Georgia. I received my B.S. in Mathematics from Cal Poly, San Luis Obispo, in 2017.
 
-### Markdown
+## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am broadly interested in algebraic geometry.
 
-```markdown
-Syntax highlighted code block
+In the summer of 2016, I participated in the [WADE Into Research](http://college.wfu.edu/mathreu/) REU at Wake Forest University
 
-# Header 1
-## Header 2
-### Header 3
+### Papers
 
-- Bulleted
-- List
+- [*Classically integral quadratic forms excepting at most two values*](https://arxiv.org/pdf/1608.01656v1.pdf), with M. Barowsky, W. Damron, A. Mejia, F. Saia, K. Thompson. Proc. Amer. Math. Soc. 146 (2018), 3661-3677.
 
-1. Numbered
-2. List
+## Teaching
 
-**Bold** and _Italic_ and `Code` text
+### University of Georgia
 
-[Link](url) and ![Image](src)
-```
+- Instructor, Math 1113 Precalculus, Fall 2018
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Cal Poly, San Luis Obispo
 
-### Jekyll Themes
+- Workshop Facilitator, Math 306 Linear Algebra II, Spring 2017
+- Workshop Facilitator, Math 481 Abstract Algebra I, Fall 2016 and Winter 2017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSchock/nschock.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## CV
 
-### Support or Contact
+Coming soon.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
