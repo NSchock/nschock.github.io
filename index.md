@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Nolan Schock
 
-You can use the [editor on GitHub](https://github.com/NSchock/nschock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second year graduate student in mathematics at the University of Georgia.
 
 ### Markdown
 
