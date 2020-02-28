@@ -1,12 +1,10 @@
 ## About
 
-I am a second year graduate student in mathematics at the University of Georgia. I received my B.S. in Mathematics from Cal Poly, San Luis Obispo, in 2017.
+I am a third year graduate student in mathematics at the University of Georgia. I received my B.S. in Mathematics from Cal Poly, San Luis Obispo, in 2017.
 
 ## Research
 
-I am broadly interested in algebraic geometry.
-
-In the summer of 2016, I participated in the [WADE Into Research](http://college.wfu.edu/mathreu/) REU at Wake Forest University
+I am interested in algebraic geometry, in particular compactifications of moduli spaces and enumerative geometry. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/)
 
 ### Papers
 
@@ -16,7 +14,10 @@ In the summer of 2016, I participated in the [WADE Into Research](http://college
 
 ### University of Georgia
 
-- Instructor, Math 1113 Precalculus, Fall 2018
+- Instructor, Math 2250 Calculus 1 (1 section), Spring 2020)
+- Instructor, Math 2250 Calculus 1 (1 section), Fall 2019
+- Instructor, Math 1113 Precalculus (2 sections), Spring 2019
+- Instructor, Math 1113 Precalculus (1 section), Fall 2018
 
 ### Cal Poly, San Luis Obispo
 
