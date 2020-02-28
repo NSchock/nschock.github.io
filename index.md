@@ -4,7 +4,7 @@ I am a third year graduate student in mathematics at the University of Georgia. 
 
 ## Research
 
-I am interested in algebraic geometry, in particular compactifications of moduli spaces and enumerative geometry. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/)
+I am interested in algebraic geometry, in particular compactifications of moduli spaces and enumerative geometry. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/).
 
 ### Papers
 
