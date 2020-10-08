@@ -8,7 +8,7 @@ I am interested in algebraic geometry, in particular intersection theory and bir
 
 ### Papers
 
-- [*Intersection theory of the stable pair compactification of the moduli space of six lines in the plane](https://arxiv.org/pdf/2009.06056.pdf), submitted.
+- [*Intersection theory of the stable pair compactification of the moduli space of six lines in the plane*](https://arxiv.org/pdf/2009.06056.pdf), submitted.
 - [*Classically integral quadratic forms excepting at most two values*](https://arxiv.org/pdf/1608.01656v1.pdf), with M. Barowsky, W. Damron, A. Mejia, F. Saia, K. Thompson. Proc. Amer. Math. Soc. 146 (2018), 3661-3677.
 
 ## Teaching
