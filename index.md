@@ -4,7 +4,7 @@ I am a Ph.D. student in my 5th year at the university of Georgia.
 
 ## Research
 
-I am interested in algebraic geometry and tropical geometry. The main focus of my research is the study of the geometry of moduli of higher-dimensiona lvarieties, in particular their intersection theory and birational geometry. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/).
+I am interested in algebraic geometry and tropical geometry. The main focus of my research is the study of the geometry of moduli of higher-dimensional varieties, in particular their intersection theory and birational geometry. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/).
 
 ### Papers
 
