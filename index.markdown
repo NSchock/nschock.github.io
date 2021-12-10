@@ -5,13 +5,13 @@
 layout: home
 ---
 
-<img src='assets/images/profile.jpg' style="float:left; width:45%; margin:15px;"/>  
+<img src='assets/images/profile.jpg' style="float:left; width:45%; margin:15px;"/>
 
 ## About
 
 I am a fifth year graduate student in mathematics at the [University of Georgia](https://math.uga.edu) in Athens, GA. Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
 
-I am currently on the postdoc job market.
+I am currently on the postdoc job market. Here is my [CV](cv.html)
 
 ## Research
 
