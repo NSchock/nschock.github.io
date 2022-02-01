@@ -11,7 +11,7 @@ layout: home
 
 I am a fifth year graduate student in mathematics at the [University of Georgia](https://math.uga.edu) in Athens, GA. Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
 
-I am currently on the postdoc job market. Here is my [CV](https://www.dropbox.com/s/s9q2d4r7uygy3q9/cv.pdf?dl=0).
+Here is my [CV](https://www.dropbox.com/s/s9q2d4r7uygy3q9/cv.pdf?dl=0).
 
 ## Research
 
