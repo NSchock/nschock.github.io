@@ -9,13 +9,13 @@ layout: home
 
 ## About
 
-I am a fifth year graduate student in mathematics at the [University of Georgia](https://math.uga.edu) in Athens, GA. Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
+I am a postdoc (Research Assistant Professor) in the mathematics department at [UIC](https://mscs.uic.edu). I received my Ph.D. at the [University of Georgia](https://math.uga.edu) in 2022, under the direction of [Valery Alexeev](http://alpha.math.uga.edu/~valery/). Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
 
 Here is my [CV](https://www.dropbox.com/s/s9q2d4r7uygy3q9/cv.pdf?dl=0).
 
 ## Research
 
-I am interested in algebraic geometry and tropical geometry. My research focuses in particular on intersection theory and birational geometry of moduli spaces of higher-dimensional varieties, and the use of tropical geometry in the study of such moduli spaces. My advisor is [Valery Alexeev](http://alpha.math.uga.edu/~valery/).
+I am interested in algebraic geometry and tropical geometry. My research focuses in particular on intersection theory and birational geometry of moduli spaces of higher-dimensional varieties, and the use of tropical geometry in the study of such moduli spaces. 
 
 ### Papers
 
