@@ -13,6 +13,8 @@ I am a postdoc (Research Assistant Professor) in the mathematics department at [
 
 Here is my [CV](https://www.dropbox.com/s/s9q2d4r7uygy3q9/cv.pdf?dl=0).
 
+You can contact me at nschoc2@uic.edu
+
 ## Research
 
 I am interested in algebraic geometry and tropical geometry. My research focuses in particular on intersection theory and birational geometry of moduli spaces of higher-dimensional varieties, and the use of tropical geometry in the study of such moduli spaces. 
