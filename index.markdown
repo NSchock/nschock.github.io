@@ -22,6 +22,6 @@ I am interested in algebraic geometry and tropical geometry. My research focuses
 ### Papers
 
 - [*Quasilinear tropical compactifications*](https://arxiv.org/abs/2112.02062), preprint.
-- [*Intersection theory of the stable pair compactification of the moduli space of six lines in the plane*](https://rdcu.be/cCiIQ), *European Journal of Mathematics* (2021).
+- [*Intersection theory of the stable pair compactification of the moduli space of six lines in the plane*](https://rdcu.be/cCiIQ), *European Journal of Mathematics* (2021). [arxiv](https://arxiv.org/abs/2009.06056).
 - [*Classically integral quadratic forms excepting at most two values*](https://arxiv.org/pdf/1608.01656v1.pdf), with M. Barowsky, W. Damron, A. Mejia, F. Saia, K. Thompson. *Proc. Amer. Math. Soc*. 146 (2018), 3661-3677.
 
