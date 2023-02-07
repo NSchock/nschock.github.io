@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nolan Schock
-email: nolan.schock@uga.edu
+email: nschoc2@uic.edu
   #avatar: assets/images/profile.jpg
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
