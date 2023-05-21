@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src='assets/images/profile.jpg' style="float:left; width:45%; margin:15px;"/>
+<img src='assets/images/profile.jpeg' style="float:left; width:45%; margin:15px;"/>
 
 ## About
 
