@@ -19,10 +19,10 @@ You can contact me at nschoc2@uic.edu
 
 I am interested in algebraic geometry and tropical geometry. My research focuses in particular on intersection theory and birational geometry of moduli spaces of higher-dimensional varieties, and the use of tropical geometry in the study of such moduli spaces. 
 
-### Papers
+### Papers  
+- [*Moduli of weighted stable marked cubic surfaces*](https://arxiv.org/abs/2305.06922). Preprint, submitted (2024).
+
 - [*The W(E_6)-invariant birational geometry of the moduli space of marked cubic surfaces*](https://onlinelibrary.wiley.com/doi/10.1002/mana.202300459). **Math. Nachrichten** (2024). [arxiv](https://arxiv.org/abs/2309.15264)
-  
-- [*Moduli of weighted stable marked del Pezzo surfaces*](https://arxiv.org/abs/2305.06922). Preprint, submitted (2023).
   
 - [*Quasilinear tropical compactifications*](https://arxiv.org/abs/2112.02062). Preprint, submitted (2021).
   
