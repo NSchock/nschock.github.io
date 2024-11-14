@@ -9,7 +9,7 @@ layout: home
 
 ## About
 
-I am a postdoc (Research Assistant Professor) in the mathematics department at [UIC](https://mscs.uic.edu). I received my Ph.D. at the [University of Georgia](https://math.uga.edu) in 2022, under the direction of [Valery Alexeev](http://alpha.math.uga.edu/~valery/). Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
+I am an NSF Postdoc/Research Assistant Professor in the mathematics department at [UIC](https://mscs.uic.edu). I received my Ph.D. at the [University of Georgia](https://math.uga.edu) in 2022, under the direction of [Valery Alexeev](http://alpha.math.uga.edu/~valery/). Previously I was an undergraduate at [Cal Poly](https://math.calpoly.edu) in San Luis Obispo, CA.
 
 Here is my [CV](https://www.dropbox.com/s/s9q2d4r7uygy3q9/cv.pdf?dl=0).
 
@@ -24,7 +24,7 @@ I am interested in algebraic geometry and tropical geometry. My research focuses
 
 - [*The W(E_6)-invariant birational geometry of the moduli space of marked cubic surfaces*](https://onlinelibrary.wiley.com/doi/10.1002/mana.202300459). **Math. Nachrichten** (2024). [arxiv](https://arxiv.org/abs/2309.15264)
   
-- [*Quasilinear tropical compactifications*](https://arxiv.org/abs/2112.02062). Preprint, submitted (2021).
+- [*Quasilinear tropical compactifications*](https://arxiv.org/abs/2112.02062). **Advances in Mathematics** (accepted) (2021).
   
 - [*Intersection theory of the stable pair compactification of the moduli space of six lines in the plane*](https://rdcu.be/cCiIQ). **European Journal of Mathematics** (2021). [arxiv](https://arxiv.org/abs/2009.06056).
   
